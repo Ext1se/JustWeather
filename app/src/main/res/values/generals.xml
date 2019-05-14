@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="key_units" translatable="false">key_units</string>
+    <string name="key_update_enable" translatable="false">key_update_enable</string>
+    <string name="key_update_time" translatable="false">key_update_time</string>
+    <string name="key_notification_enable" translatable="false">key_notification_enable</string>
+    <string name="key_notification_custom_enable" translatable="false">key_notification_custom_enable</string>
+
+    <string-array name="units_format_value">
+        <item>metric</item>
+        <item>imperial</item>
+    </string-array>
+
+    <string-array name="intervals_value">
+        <item>3</item>
+        <item>6</item>
+        <item>12</item>
+    </string-array>
+</resources>

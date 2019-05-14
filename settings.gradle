@@ -1,0 +1,2 @@
+include ':app', ':opengl-library', ':hellocharts-library'
+project(':hellocharts-library').projectDir = new File('hellochart-library')

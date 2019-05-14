@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="now">Сейчас</string>
+
+    <string name="error_operation">Операция не выполнена!</string>
+    <string name="permissions_info">Разрешения не предоставлены.</string>
+    <string name="my_location">Мое местоположение</string>
+
+    <string name="temperature">Температура</string>
+    <string name="humidity">Влажность</string>
+    <string name="pressure">Давление</string>
+    <string name="wind">Ветер</string>
+
+    <string name="settings">Настройки</string>
+    <string name="setting_unit_title">Единицы измерения</string>
+    <string name="setting_unit_dialog_title">Выберите систему единиц измерений</string>
+    <string name="setting_general">Обшие настройки</string>
+    <string name="setting_notification">Уведомление</string>
+    <string name="setting_notification_enable">Разрешить уведомление</string>
+    <string name="setting_notification_custom">Разрешить расширенное уведомление</string>
+    <string name="setting_notification_custom_enabled">Используется красивое уведомление с детальной информацией</string>
+    <string name="setting_notification_custom_disabled">Используется стандартное уведомление</string>
+    <string name="setting_update_title">Разрешить обновление данных</string>
+    <string name="setting_time_title">Интервал обновления</string>
+    <string name="setting_time_dialog_title">Выберите интервал обновления</string>
+
+    <string name="units_format_default">Метрическая: \u2103, м/с</string>
+    <string-array name="units_format">
+        <item>Метрическая: \u2103, м/с</item>
+        <item>Имперская: \u2109, мили/ч</item>
+    </string-array>
+
+    <string name="intervals_default">3 часа</string>
+    <string-array name="intervals">
+        <item>3 часа</item>
+        <item>6 часов</item>
+        <item>12 часов</item>
+    </string-array>
+
+    <string name="notification_update">Обновить</string>
+    <string name="notification_update_title">Обновление...</string>
+    <string name="start_info">***\nВведите название города или воспользуйтесь определением текущего местоположения (не забудьте включить и разрешить передачу геоданных).\n***</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="emerald_city">Изумрудный город</string>
+    <string name="dialog_error">Ошибка</string>
+    <string name="dialog_advice">Не удалось определить текущее местоположение. Проверьте включена и разрешена ли передача геоданных.</string>
+
+</resources>

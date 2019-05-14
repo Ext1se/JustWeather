@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="celsius">\u2103</string>
+    <string name="fahrenheit">\u2109</string>
+    <string name="percent">%</string>
+    <string name="pressure_pascal">гПа</string>
+    <string name="pressure_mercury">мм рт.ст.</string>
+    <string name="meter_per_second">м/с</string>
+    <string name="mile_per_hour">мили/ч</string>
+</resources>

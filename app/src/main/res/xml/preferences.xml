@@ -1,0 +1,47 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:key="key_general"
+        android:title="@string/setting_general">
+
+    <ListPreference
+        android:defaultValue="metric"
+        android:entries="@array/units_format"
+        android:entryValues="@array/units_format_value"
+        android:key="@string/key_units"
+        android:title="@string/setting_unit_title"
+        android:dialogTitle="@string/setting_unit_dialog_title"/>
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="@string/key_update_enable"
+        android:title="@string/setting_update_title" />
+
+    <ListPreference
+        android:defaultValue="6"
+        android:entries="@array/intervals"
+        android:entryValues="@array/intervals_value"
+        android:key="@string/key_update_time"
+        android:dependency="@string/key_update_enable"
+        android:title="@string/setting_time_title"
+        android:dialogTitle="@string/setting_time_dialog_title"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="key_notification"
+        android:title="@string/setting_notification">
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="@string/key_notification_enable"
+            android:title="@string/setting_notification_enable" />
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:dependency="@string/key_notification_enable"
+            android:key="@string/key_notification_custom_enable"
+            android:title="@string/setting_notification_custom"
+            android:summary="@string/setting_notification_custom_enabled"/>
+
+    </PreferenceCategory>
+</PreferenceScreen>

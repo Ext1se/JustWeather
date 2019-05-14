@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorTextGray">#2c3e50</color>
+    <color name="colorDarkGray">#a6acb1</color>
+    <color name="colorGray">#CFDAE4</color>
+
+    <color name="colorBlackDark">#2c3e50</color>
+    <color name="colorBlackLight">#34495e</color>
+    <color name="colorBlueDark">#2980b9</color>
+    <color name="colorBlueLight">#3498db</color>
+    <color name="colorRed">#d35400</color>
+    <color name="colorRedAplha">#b4c71400</color>
+    <color name="colorOrange">#E67E22</color>
+    <color name="colorOrangeLight">#f39c12</color>
+    <color name="colorYellow">#f1c40f</color>
+    <color name="colorGreenDark">#16a085</color>
+    <color name="colorGreen">#1abc9c</color>
+    <color name="colorGreenLight">#27AE60</color>
+
+    <color name="color_day_top">#304FFE</color>
+    <color name="color_day_bottom">#00B0FF</color>
+
+    <color name="color_night_top">#181F50</color>
+    <color name="color_night_bottom">#303F9F</color>
+
+    <color name="color_morning">#40C4FF</color>
+    <color name="color_morning_primary">#0091EA</color>
+    <color name="color_morning_primary_dark">#0277BD</color>
+
+    <color name="color_day">#2196F3</color>
+    <color name="color_day_primary">#2962FF</color>
+    <color name="color_day_primary_dark">#1565C0</color>
+
+    <color name="color_evening">#3F51B5</color>
+    <color name="color_evening_primary">#303F9F</color>
+    <color name="color_evening_primary_dark">#283593</color>
+
+    <color name="color_night">#375472</color>
+    <color name="color_night_primary">#34495e</color>
+    <color name="color_night_primary_dark">#2c3e50</color>
+
+</resources>
