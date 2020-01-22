@@ -6,6 +6,10 @@ The forecast is provided by [OpenWeatherMap](https://openweathermap.org).
 
 The application is available on [Google Play](https://play.google.com/store/apps/details?id=com.ext1se.weather).
 
+![alt text][logo]
+
+[logo]: https://lh3.googleusercontent.com/78XS-XHvtceq6G8BFEIZu-hXP00MvgTTIh1-LZLWbbz1atQAmXmxd6XlL_j5bIwb-g=s132-rw "JustWeather"
+
 #### Libraries & Dependencies
 * Java
 * MVP 
